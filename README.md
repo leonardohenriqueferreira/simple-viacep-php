@@ -1,3 +1,5 @@
+![Packagist Version](https://img.shields.io/packagist/v/leonardoferreira/simple-viacep)
+
 # Simple ViaCEP PHP
 
 Busca de CEP utilizando o webservice ViaCEP.
