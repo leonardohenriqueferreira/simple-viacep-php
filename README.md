@@ -1,4 +1,4 @@
-![Packagist Version](https://img.shields.io/packagist/v/leonardoferreira/simple-viacep)
+[![Packagist Version](https://img.shields.io/packagist/v/leonardoferreira/simple-viacep)](https://packagist.org/packages/leonardoferreira/simple-viacep)
 
 # Simple ViaCEP PHP
 
