@@ -1,5 +1,5 @@
 [![Packagist Version](https://img.shields.io/packagist/v/leonardoferreira/simple-viacep)](https://packagist.org/packages/leonardoferreira/simple-viacep)
-![Packagist License](https://img.shields.io/packagist/l/leonardoferreira/simple-viacep)
+[![Packagist License](https://img.shields.io/packagist/l/leonardoferreira/simple-viacep)](https://github.com/leonardohenriqueferreira/simple-viacep-php/blob/master/LICENSE)
 
 # Simple ViaCEP PHP
 
