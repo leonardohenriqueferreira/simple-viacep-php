@@ -1,9 +1,9 @@
 [![Packagist Version](https://img.shields.io/packagist/v/leonardoferreira/simple-viacep)](https://packagist.org/packages/leonardoferreira/simple-viacep)
+![Packagist License](https://img.shields.io/packagist/l/leonardoferreira/simple-viacep)
 
 # Simple ViaCEP PHP
 
-Busca de CEP utilizando o webservice ViaCEP.
-https://viacep.com.br/
+Busca de CEP utilizando o webservice [ViaCEP](https://viacep.com.br/)
 
 ## Install
 
